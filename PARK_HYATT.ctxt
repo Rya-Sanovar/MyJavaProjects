@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PARK_HYATT
+comment1.params=
+comment1.target=void\ menu()
+comment1.text=function\ to\ display\ the\ main\ menu\ to\ the\ user*
+comment2.params=
+comment2.target=void\ view()
+comment2.text=This\ method\ helps\ us\ to\ view\ the\ menu
+comment3.params=
+comment3.target=void\ order()
+comment3.text=This\ method\ enables\ the\ user\ to\ order/book
+comment4.params=
+comment4.target=void\ bill_exit()
+comment4.text=This\ method\ prints\ the\ final\ bill\ i.e.,\ enables\ the\ user\ to\ view\ his\ bill\ and\ exit
+numComments=5
